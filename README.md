@@ -16,7 +16,7 @@ A user can stake their funds to achieve a goal by some deadline, and have truste
 - Funds are staked and user is issued an equal amount of GoalTokens
 	
 ### Return/Success flow
-- Referee determines goal has been achieved on or before deadline (by staker submitting evidence to them), or decides to return money to to user due to extenuating circumstances
+- Referee determines goal has been achieved on or before deadline (by staker submitting evidence to them), or decides to return money to user due to extenuating circumstances
 - Referee sends a return transaction for the previous staking transaction
 - GoalTokens issued to staker are burned
 - Original funds are returned to staker
